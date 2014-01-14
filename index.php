@@ -161,7 +161,7 @@ $(document).ready(function(){
             <div class="span6">
                 <h3 style="text-align:left">About the Cherub Fund</h3>
                 
-                <p>The Cherub Fund was formed in 2013 in order to grow the startup community in Kentucky.  The fund is comprised of entrepreneurs, angel investors and supporters of entrepreneurs. <a href="#" data-toggle="tooltip" title="I'm a Simple Tootlip">auctor ut tellus</a><br></br>
+                <p>The Cherub Fund was formed in 2013 in order to grow the startup community in Kentucky.  The fund is comprised of entrepreneurs, angel investors and supporters of entrepreneurs.<br></br>
                 The Cherub Fund was formed in 2013 in order to grow the startup community in Kentucky.  The fund is comprised of entrepreneurs, angel investors and supporters of entrepreneurs.</p>
                 
             </div>
